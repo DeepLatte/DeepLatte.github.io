@@ -1,0 +1,510 @@
+<!doctype html>
+<html>
+<head>
+  <title>MOS</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <script>
+    var i = 1
+  </script>
+  <h1>MOS TEST for INTERSPEECH 2021</h1>
+
+  안녕하세요.<br>
+  음성합성팀 박태준, Voice Conversion 팀 배재성, 배한빈 입니다.<br>
+  각자 업무로 바쁘신 와중에도 청취 평가에 참여해 주셔서 진심으로 감사합니다.<br>
+  아래 평가 방법을 참고하여 진행하시고, 궁금하신 점은 언제든 저에게 문의 주시기 바랍니다.<br><br>
+
+  [평가 방법]<br>
+  <b>* 헤드폰(권장) 혹은 이어폰을 통해 청취하며 평가를 수행해주시면 감사하겠습니다.</b><br>
+  다음 MOS 청취평가는 크게 <b>두개의 카테고리</b>로 이루어져 있습니다. 두 카테고리 모두 수행하셔야합니다!<br>
+  <br>
+      1. 합성음 샘플을 듣고 음성의 <b>자연스러움</b>과 <b>억양</b> 그리고 <b>발음 명료도</b>에 대해 1~5점으로 평가해주세요.<br>
+        - 80 문항 ( 1 ~ 80 )<br>
+        - 각 샘플을 듣고 상대적인 평가가 아닌 절대적인 평가를 해주시기 바랍니다.<br>
+  <br>
+      2. 화자 sample 음성을 청취 하신 뒤에 두 개의 합성음(A, B)을 듣고 sample 화자의 목소리와 <b>더 유사</b>함을 기준으로 [A, Neutral, B]에 체크해주세요<br>
+        여기서 <b>Neutral</b>은 A, B의 유사한 정도가 비슷한 경우를 의미합니다.<br>
+        화자의 목소리와 유사하다는 의미는 화자의 특성(목소리, 운율 등)이 sample과 비슷함을 의미합니다.<br>
+        - 30 문항 ( 81 ~ 110 )<br>
+  <br>
+
+  각 항목에 대한 평가는 설문조사 링크에 부탁드리겠습니다.<br>
+
+  설문 조사 링크: <a href="https://forms.gle/PYTtbPhDznMLAC9B8">설문조사지</a>&nbsp;
+  <br>
+  <br>
+
+  <b>[평가기준]</b><br>
+  <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-ao2g{border-color:#333333;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-de2y{border-color:#333333;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-ao2g">점수</th>
+        <th class="tg-ao2g">정도</th>
+        <th class="tg-ao2g">내용</th>
+        <th class="tg-0lax">sample</th>
+        <th class="tg-0lax">비고</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-ao2g">5</td>
+        <td class="tg-ao2g">매우 좋음</td>
+        <td class="tg-de2y">음성이 매우 자연스러우며, 억양이 살아있다. 발음 명료도가 매우 높다. (내용이 정확하게 전달된다.)<br>*부정확한 발음이 없음</td>
+        <td class="tg-0lax"><audio src="wavs/samples/5.wav" type="audio/wav" controls></audio></td>
+        <td class="tg-0lax"></td>
+      </tr>
+      <tr>
+        <td class="tg-ao2g">4</td>
+        <td class="tg-ao2g">좋음</td>
+        <td class="tg-de2y">음성이 대체적으로 자연스러우며, 억양이 대체적으로 살아있다. 발음 명료도가 높다. (한두 개 글자를 제외하고 내용이 정확하게 전달된다.)<br>*대체적으로 발음이 정확하지만, 한두 글자 정도 모호한 발음이 있음</td>
+        <td class="tg-0lax"><audio src="wavs/samples/4.wav" type="audio/wav" controls></audio></td>
+        <td class="tg-0lax">"뼈아프게"에서 "아"의 생략</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">3</td>
+        <td class="tg-baqh">보통</td>
+        <td class="tg-0lax">음성에 어색한 부분이 존재하며, 억양이 단조롭다. 발음이 대체로 명료하나, 일부분 발음 명료도가 떨어진다.<br>*대체적으로 발음이 정확하지만,한 두 단어 정도 발음이 부정확함</td>
+        <td class="tg-baqh"><audio src="wavs/samples/3.wav" type="audio/wav" controls></audio></td>
+        <td class="tg-baqh">"고치시면돼요."에서 "치"발음 문제, 몇 음소에서 발음이 새는 문제</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">2</td>
+        <td class="tg-baqh">안 좋음</td>
+        <td class="tg-0lax">음성이 전체적으로 어색하며, 발음 명료도가 떨어진다. 무슨 말인지 알아 듣기 힘들다.<br>*한 두 단어 정도만 알아들을 수 있음</td>
+        <td class="tg-baqh"><audio src="wavs/samples/2.wav" type="audio/wav" controls></audio></td>
+        <td class="tg-baqh"></td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">1</td>
+        <td class="tg-baqh">매우 안 좋음</td>
+        <td class="tg-0lax">말을 전혀 알아 들을 수가 없음.</td>
+        <td class="tg-baqh"></td>
+        <td class="tg-baqh"></td>
+      </tr>
+    </tbody>
+    </table>
+
+  <h2>MOS평가 Test Samples</h2>
+  <table>
+    <tbody>
+      <tr><script>document.write('<b>Test '+ i + ' ~ ' + (i+3)+ ':</b> "오디오 품질평가."');</script></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/1_0_ncmale_02013_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/2_0_ncmale_02013_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/3_0_ncmale_02013_2.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/4_0_ncmale_02013_3.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td> &nbsp; </td></tr>
+    </tbody>
+  </table>
+  <table>
+    <tbody>
+      <tr><script>document.write('<b>Test '+ i + ' ~ ' + (i+3)+ ':</b> "오디오 품질평가."');</script></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/5_0_ncmale_08939_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/6_0_ncmale_08939_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/7_0_ncmale_08939_2.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/8_0_ncmale_08939_3.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td> &nbsp; </td></tr>
+    </tbody>
+  </table>
+  <table>
+    <tbody>
+      <tr><script>document.write('<b>Test '+ i + ' ~ ' + (i+3)+ ':</b> "오디오 품질평가."');</script></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/9_0_ncfemale_12534_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/10_0_ncfemale_12534_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/11_0_ncfemale_12534_2.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/12_0_ncfemale_12534_3.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td> &nbsp; </td></tr>
+    </tbody>
+  </table>
+  <table>
+    <tbody>
+      <tr><script>document.write('<b>Test '+ i + ' ~ ' + (i+3)+ ':</b> "오디오 품질평가."');</script></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/13_0_ncfemale_08268_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/14_0_ncfemale_08268_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/15_0_ncfemale_08268_2.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/16_0_ncfemale_08268_3.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td> &nbsp; </td></tr>
+    </tbody>
+  </table>
+  <table>
+    <tbody>
+      <tr><script>document.write('<b>Test '+ i + ' ~ ' + (i+3)+ ':</b> "오디오 품질평가."');</script></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/17_0_ncmale_09440_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/18_0_ncmale_09440_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/19_0_ncmale_09440_2.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/20_0_ncmale_09440_3.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td> &nbsp; </td></tr>
+    </tbody>
+  </table>
+
+  <table>
+    <tbody>
+      <tr><script>document.write('<b>Test '+ i + ' ~ ' + (i+11) + ':</b> "오디오 품질평가."');</script></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/21_4p_ncmale_09681_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/22_4p_ncmale_09681_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/23_4p_ncfemale_06160_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/24_4p_ncfemale_06160_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/25_4p_ncfemale_04283_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/26_4p_ncfemale_04283_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/27_4p_ncmale_10779_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/28_4p_ncmale_10779_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/29_4p_ncfemale_07542_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/30_4p_ncfemale_07542_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td> &nbsp; </td></tr>
+    </tbody>
+  </table>
+
+  <table>
+    <tbody>
+      <tr><script>document.write('<b>Test '+ i + ' ~ ' + (i+11) + ':</b> "오디오 품질평가."');</script></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/31_6p_ncmale_04556_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/32_6p_ncmale_04556_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/33_6p_ncfemale_07296_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/34_6p_ncfemale_07296_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/35_6p_ncmale_10944_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/36_6p_ncmale_10944_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/37_6p_ncmale_08536_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/38_6p_ncmale_08536_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/39_6p_ncfemale_09699_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/40_6p_ncfemale_09699_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td> &nbsp; </td></tr>
+    </tbody>
+  </table>
+
+  <table>
+    <tbody>
+      <tr><script>document.write('<b>Test '+ i + ' ~ ' + (i+11) + ':</b> "오디오 품질평가."');</script></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/41_8p_ncmale_06053_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/42_8p_ncmale_06053_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/43_8p_ncmale_00659_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/44_8p_ncmale_00659_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/45_8p_ncfemale_09354_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/46_8p_ncfemale_09354_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/47_8p_ncfemale_08856_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/48_8p_ncfemale_08856_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/49_8p_ncfemale_07050_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/50_8p_ncfemale_07050_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td> &nbsp; </td></tr>
+    </tbody>
+  </table>
+
+  <table>
+    <tbody>
+      <tr><script>document.write('<b>Test '+ i + ' ~ ' + (i+11) + ':</b> "오디오 품질평가."');</script></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/51_4m_ncmale_05263_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/52_4m_ncmale_05263_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/53_4m_ncmale_08513_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/54_4m_ncmale_08513_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/55_4m_ncfemale_00433_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/56_4m_ncfemale_00433_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/57_4m_ncmale_11037_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/58_4m_ncmale_11037_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/59_4m_ncfemale_08978_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/60_4m_ncfemale_08978_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td> &nbsp; </td></tr>
+    </tbody>
+  </table>
+
+  <table>
+    <tbody>
+      <tr><script>document.write('<b>Test '+ i + ' ~ ' + (i+11) + ':</b> "오디오 품질평가."');</script></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/61_6m_ncmale_11917_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/62_6m_ncmale_11917_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/63_6m_ncfemale_02149_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/64_6m_ncfemale_02149_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/65_6m_ncmale_11641_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/66_6m_ncmale_11641_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/67_6m_ncfemale_09699_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/68_6m_ncfemale_09699_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/69_6m_ncfemale_07710_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/70_6m_ncfemale_07710_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td> &nbsp; </td></tr>
+    </tbody>
+  </table>
+
+  <table>
+    <tbody>
+      <tr><script>document.write('<b>Test '+ i + ' ~ ' + (i+11) + ':</b> "오디오 품질평가."');</script></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/71_8m_ncmale_06360_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/72_8m_ncmale_06360_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/73_8m_ncfemale_13067_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/74_8m_ncfemale_13067_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/75_8m_ncmale_05453_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/76_8m_ncmale_05453_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/77_8m_ncmale_02088_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/78_8m_ncmale_02088_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/79_8m_ncfemale_06405_0.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td><script>document.write(i); i+=1</script></td><td><audio src="wavs/80_8m_ncfemale_06405_1.wav" type="audio/wav" controls></audio></td></tr>
+      <tr><td> &nbsp; </td></tr>
+    </tbody>
+  </table>
+  <br>
+  아래 문항들은 다음 sample을 참고하여 화자 유사도 평가 수행 부탁드립니다.<br>
+  
+  <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-baqh"></th>
+        <th class="tg-baqh">오디오 샘플</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-baqh">여자성우</td>
+        <td class="tg-baqh"><audio src="wavs/samples/female_nefemale_00300.wav" type="audio/wav" controls></audio></td>
+      </tr>
+    </tbody>
+    </table>
+  <br>
+  <br>
+  <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-baqh{text-align:center;vertical-align:top}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+    .tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+    .tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-8jgo"></th>
+        <th class="tg-8jgo">A</th>
+        <th class="tg-8jgo">B</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+        <td class="tg-8jgo"><audio src="wavs/23_4p_ncfemale_06160_0.wav" type="audio/wav" controls></audio></td>
+        <td class="tg-8jgo"><audio src="wavs/24_4p_ncfemale_06160_1.wav" type="audio/wav" controls></audio></td>
+      </tr>
+      <tr>
+        <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+        <td class="tg-8jgo"><audio src="wavs/25_4p_ncfemale_04283_0.wav" type="audio/wav" controls></audio></td>
+        <td class="tg-8jgo"><audio src="wavs/26_4p_ncfemale_04283_1.wav" type="audio/wav" controls></audio></td>
+      </tr>
+      <tr>
+        <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+        <td class="tg-8jgo"><audio src="wavs/29_4p_ncfemale_07542_0.wav" type="audio/wav" controls></audio></td>
+        <td class="tg-8jgo"><audio src="wavs/30_4p_ncfemale_07542_1.wav" type="audio/wav" controls></audio></td>
+      </tr>
+      <tr>
+        <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+        <td class="tg-8jgo"><audio src="wavs/33_6p_ncfemale_07296_0.wav" type="audio/wav" controls></audio></td>
+        <td class="tg-8jgo"><audio src="wavs/34_6p_ncfemale_07296_1.wav" type="audio/wav" controls></audio></td>
+      </tr>
+      <tr>
+        <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+        <td class="tg-8jgo"><audio src="wavs/39_6p_ncfemale_09699_0.wav" type="audio/wav" controls></audio></td>
+        <td class="tg-8jgo"><audio src="wavs/40_6p_ncfemale_09699_1.wav" type="audio/wav" controls></audio></td>
+      </tr>
+      <tr>
+        <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+        <td class="tg-8jgo"><audio src="wavs/45_8p_ncfemale_09354_0.wav" type="audio/wav" controls></audio></td>
+        <td class="tg-8jgo"><audio src="wavs/46_8p_ncfemale_09354_1.wav" type="audio/wav" controls></audio></td>
+      </tr>
+      <tr>
+        <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+        <td class="tg-8jgo"><audio src="wavs/47_8p_ncfemale_08856_0.wav" type="audio/wav" controls></audio></td>
+        <td class="tg-8jgo"><audio src="wavs/48_8p_ncfemale_08856_1.wav" type="audio/wav" controls></audio></td>
+      </tr>
+      <tr>
+        <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+        <td class="tg-8jgo"><audio src="wavs/49_8p_ncfemale_07050_0.wav" type="audio/wav" controls></audio></td>
+        <td class="tg-8jgo"><audio src="wavs/50_8p_ncfemale_07050_1.wav" type="audio/wav" controls></audio></td>
+      </tr>
+      <tr>
+        <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+        <td class="tg-8jgo"><audio src="wavs/55_4m_ncfemale_00433_0.wav" type="audio/wav" controls></audio></td>
+        <td class="tg-8jgo"><audio src="wavs/56_4m_ncfemale_00433_1.wav" type="audio/wav" controls></audio></td>
+      </tr>
+      <tr>
+        <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+        <td class="tg-8jgo"><audio src="wavs/59_4m_ncfemale_08978_0.wav" type="audio/wav" controls></audio></td>
+        <td class="tg-8jgo"><audio src="wavs/60_4m_ncfemale_08978_1.wav" type="audio/wav" controls></audio></td>
+      </tr>
+      <tr>
+        <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+        <td class="tg-8jgo"><audio src="wavs/63_6m_ncfemale_02149_0.wav" type="audio/wav" controls></audio></td>
+        <td class="tg-8jgo"><audio src="wavs/64_6m_ncfemale_02149_1.wav" type="audio/wav" controls></audio></td>
+      </tr>
+      <tr>
+        <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+        <td class="tg-8jgo"><audio src="wavs/67_6m_ncfemale_09699_0.wav" type="audio/wav" controls></audio></td>
+        <td class="tg-8jgo"><audio src="wavs/68_6m_ncfemale_09699_1.wav" type="audio/wav" controls></audio></td>
+      </tr>
+      <tr>
+        <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+        <td class="tg-8jgo"><audio src="wavs/69_6m_ncfemale_07710_0.wav" type="audio/wav" controls></audio></td>
+        <td class="tg-8jgo"><audio src="wavs/70_6m_ncfemale_07710_1.wav" type="audio/wav" controls></audio></td>
+      </tr>
+      <tr>
+        <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+        <td class="tg-8jgo"><audio src="wavs/73_8m_ncfemale_13067_0.wav" type="audio/wav" controls></audio></td>
+        <td class="tg-8jgo"><audio src="wavs/74_8m_ncfemale_13067_1.wav" type="audio/wav" controls></audio></td>
+      </tr>
+      <tr>
+        <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+        <td class="tg-8jgo"><audio src="wavs/79_8m_ncfemale_06405_0.wav" type="audio/wav" controls></audio></td>
+        <td class="tg-8jgo"><audio src="wavs/80_8m_ncfemale_06405_1.wav" type="audio/wav" controls></audio></td>
+      </tr>
+    </tbody>
+    </table>
+    <br>
+    아래 문항들은 다음 sample을 참고하여 화자 유사도 평가 수행 부탁드립니다.<br>
+  
+    <style type="text/css">
+      .tg  {border-collapse:collapse;border-spacing:0;}
+      .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+        overflow:hidden;padding:10px 5px;word-break:normal;}
+      .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+        font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+      .tg .tg-baqh{text-align:center;vertical-align:top}
+      .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+      .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+      .tg .tg-0lax{text-align:left;vertical-align:top}
+      </style>
+      <table class="tg">
+      <thead>
+        <tr>
+          <th class="tg-baqh"></th>
+          <th class="tg-baqh">오디오 샘플</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="tg-baqh">남자성우</td>
+          <td class="tg-baqh"><audio src="wavs/samples/male_ncmale_00330.wav" type="audio/wav" controls></audio></td>
+        </tr>
+      </tbody>
+      </table>
+    <br>
+    <style type="text/css">
+      .tg  {border-collapse:collapse;border-spacing:0;}
+      .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+        overflow:hidden;padding:10px 5px;word-break:normal;}
+      .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+        font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+      .tg .tg-baqh{text-align:center;vertical-align:top}
+      .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+      .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+      .tg .tg-0lax{text-align:left;vertical-align:top}
+      .tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+      .tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
+      </style>
+      <table class="tg">
+      <thead>
+        <tr>
+          <th class="tg-8jgo"></th>
+          <th class="tg-8jgo">A</th>
+          <th class="tg-8jgo">B</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+          <td class="tg-8jgo"><audio src="wavs/21_4p_ncmale_09681_0.wav" type="audio/wav" controls></audio></td>
+          <td class="tg-8jgo"><audio src="wavs/22_4p_ncmale_09681_1.wav" type="audio/wav" controls></audio></td>
+        </tr>
+        <tr>
+          <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+          <td class="tg-8jgo"><audio src="wavs/27_4p_ncmale_10779_0.wav" type="audio/wav" controls></audio></td>
+          <td class="tg-8jgo"><audio src="wavs/28_4p_ncmale_10779_1.wav" type="audio/wav" controls></audio></td>
+        </tr>
+        <tr>
+          <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+          <td class="tg-8jgo"><audio src="wavs/31_6p_ncmale_04556_0.wav" type="audio/wav" controls></audio></td>
+          <td class="tg-8jgo"><audio src="wavs/32_6p_ncmale_04556_1.wav" type="audio/wav" controls></audio></td>
+        </tr>
+        <tr>
+          <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+          <td class="tg-8jgo"><audio src="wavs/35_6p_ncmale_10944_0.wav" type="audio/wav" controls></audio></td>
+          <td class="tg-8jgo"><audio src="wavs/36_6p_ncmale_10944_1.wav" type="audio/wav" controls></audio></td>
+        </tr>
+        <tr>
+          <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+          <td class="tg-8jgo"><audio src="wavs/37_6p_ncmale_08536_0.wav" type="audio/wav" controls></audio></td>
+          <td class="tg-8jgo"><audio src="wavs/38_6p_ncmale_08536_1.wav" type="audio/wav" controls></audio></td>
+        </tr>
+        <tr>
+          <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+          <td class="tg-8jgo"><audio src="wavs/41_8p_ncmale_06053_0.wav" type="audio/wav" controls></audio></td>
+          <td class="tg-8jgo"><audio src="wavs/42_8p_ncmale_06053_1.wav" type="audio/wav" controls></audio></td>
+        </tr>
+        <tr>
+          <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+          <td class="tg-8jgo"><audio src="wavs/43_8p_ncmale_00659_0.wav" type="audio/wav" controls></audio></td>
+          <td class="tg-8jgo"><audio src="wavs/44_8p_ncmale_00659_1.wav" type="audio/wav" controls></audio></td>
+        </tr>
+        <tr>
+          <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+          <td class="tg-8jgo"><audio src="wavs/51_4m_ncmale_05263_0.wav" type="audio/wav" controls></audio></td>
+          <td class="tg-8jgo"><audio src="wavs/52_4m_ncmale_05263_1.wav" type="audio/wav" controls></audio></td>
+        </tr>
+        <tr>
+          <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+          <td class="tg-8jgo"><audio src="wavs/53_4m_ncmale_08513_0.wav" type="audio/wav" controls></audio></td>
+          <td class="tg-8jgo"><audio src="wavs/54_4m_ncmale_08513_1.wav" type="audio/wav" controls></audio></td>
+        </tr>
+        <tr>
+          <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+          <td class="tg-8jgo"><audio src="wavs/57_4m_ncmale_11037_0.wav" type="audio/wav" controls></audio></td>
+          <td class="tg-8jgo"><audio src="wavs/58_4m_ncmale_11037_1.wav" type="audio/wav" controls></audio></td>
+        </tr>
+        <tr>
+          <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+          <td class="tg-8jgo"><audio src="wavs/61_6m_ncmale_11917_0.wav" type="audio/wav" controls></audio></td>
+          <td class="tg-8jgo"><audio src="wavs/62_6m_ncmale_11917_1.wav" type="audio/wav" controls></audio></td>
+        </tr>
+        <tr>
+          <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+          <td class="tg-8jgo"><audio src="wavs/65_6m_ncmale_11641_0.wav" type="audio/wav" controls></audio></td>
+          <td class="tg-8jgo"><audio src="wavs/66_6m_ncmale_11641_1.wav" type="audio/wav" controls></audio></td>
+        </tr>
+        <tr>
+          <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+          <td class="tg-8jgo"><audio src="wavs/71_8m_ncmale_06360_0.wav" type="audio/wav" controls></audio></td>
+          <td class="tg-8jgo"><audio src="wavs/72_8m_ncmale_06360_1.wav" type="audio/wav" controls></audio></td>
+        </tr>
+        <tr>
+          <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+          <td class="tg-8jgo"><audio src="wavs/75_8m_ncmale_05453_0.wav" type="audio/wav" controls></audio></td>
+          <td class="tg-8jgo"><audio src="wavs/76_8m_ncmale_05453_1.wav" type="audio/wav" controls></audio></td>
+        </tr>
+        <tr>
+          <td class="tg-8jgo"><script>document.write(i); i+=1</script></td>
+          <td class="tg-8jgo"><audio src="wavs/77_8m_ncmale_02088_0.wav" type="audio/wav" controls></audio></td>
+          <td class="tg-8jgo"><audio src="wavs/78_8m_ncmale_02088_1.wav" type="audio/wav" controls></audio></td>
+        </tr>
+      </tbody>
+      </table>
+</body>
+</html>
