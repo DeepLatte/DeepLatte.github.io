@@ -1,0 +1,342 @@
+{
+    "./generated_files/voco_v2_mpd/g_02500000/LJ006-0078.wav": {
+        "wave_idx": 0,
+        "total_f_idx": 57,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v2_msd/g_02500000/LJ006-0078.wav": {
+        "wave_idx": 0,
+        "total_f_idx": 38,
+        "idx_per_model": 0
+    },
+    "./generated_files/voco_v2_msdcd_feb_large/g_02500000/LJ006-0078.wav": {
+        "wave_idx": 0,
+        "total_f_idx": 60,
+        "idx_per_model": 2
+    },
+    "./generated_files/voco_v2_unity_rescale/g_02500000/LJ006-0078.wav": {
+        "wave_idx": 0,
+        "total_f_idx": 33,
+        "idx_per_model": 1
+    },
+    "./generated_files/voco_v2_mpd/g_02500000/LJ013-0228.wav": {
+        "wave_idx": 1,
+        "total_f_idx": 58,
+        "idx_per_model": 0
+    },
+    "./generated_files/voco_v2_msd/g_02500000/LJ013-0228.wav": {
+        "wave_idx": 1,
+        "total_f_idx": 40,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v2_msdcd_feb_large/g_02500000/LJ013-0228.wav": {
+        "wave_idx": 1,
+        "total_f_idx": 44,
+        "idx_per_model": 2
+    },
+    "./generated_files/voco_v2_unity_rescale/g_02500000/LJ013-0228.wav": {
+        "wave_idx": 1,
+        "total_f_idx": 36,
+        "idx_per_model": 1
+    },
+    "./generated_files/voco_v2_mpd/g_02500000/LJ014-0101.wav": {
+        "wave_idx": 2,
+        "total_f_idx": 37,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v2_msd/g_02500000/LJ014-0101.wav": {
+        "wave_idx": 2,
+        "total_f_idx": 0,
+        "idx_per_model": 0
+    },
+    "./generated_files/voco_v2_msdcd_feb_large/g_02500000/LJ014-0101.wav": {
+        "wave_idx": 2,
+        "total_f_idx": 35,
+        "idx_per_model": 1
+    },
+    "./generated_files/voco_v2_unity_rescale/g_02500000/LJ014-0101.wav": {
+        "wave_idx": 2,
+        "total_f_idx": 17,
+        "idx_per_model": 2
+    },
+    "./generated_files/voco_v2_mpd/g_02500000/LJ042-0070.wav": {
+        "wave_idx": 3,
+        "total_f_idx": 59,
+        "idx_per_model": 0
+    },
+    "./generated_files/voco_v2_msd/g_02500000/LJ042-0070.wav": {
+        "wave_idx": 3,
+        "total_f_idx": 9,
+        "idx_per_model": 2
+    },
+    "./generated_files/voco_v2_msdcd_feb_large/g_02500000/LJ042-0070.wav": {
+        "wave_idx": 3,
+        "total_f_idx": 20,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v2_unity_rescale/g_02500000/LJ042-0070.wav": {
+        "wave_idx": 3,
+        "total_f_idx": 8,
+        "idx_per_model": 1
+    },
+    "./generated_files/voco_v2_mpd/g_02500000/LJ033-0046.wav": {
+        "wave_idx": 4,
+        "total_f_idx": 31,
+        "idx_per_model": 0
+    },
+    "./generated_files/voco_v2_msd/g_02500000/LJ033-0046.wav": {
+        "wave_idx": 4,
+        "total_f_idx": 10,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v2_msdcd_feb_large/g_02500000/LJ033-0046.wav": {
+        "wave_idx": 4,
+        "total_f_idx": 42,
+        "idx_per_model": 2
+    },
+    "./generated_files/voco_v2_unity_rescale/g_02500000/LJ033-0046.wav": {
+        "wave_idx": 4,
+        "total_f_idx": 63,
+        "idx_per_model": 1
+    },
+    "./generated_files/voco_v2_mpd/g_02500000/LJ002-0167.wav": {
+        "wave_idx": 5,
+        "total_f_idx": 52,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v2_msd/g_02500000/LJ002-0167.wav": {
+        "wave_idx": 5,
+        "total_f_idx": 55,
+        "idx_per_model": 0
+    },
+    "./generated_files/voco_v2_msdcd_feb_large/g_02500000/LJ002-0167.wav": {
+        "wave_idx": 5,
+        "total_f_idx": 21,
+        "idx_per_model": 1
+    },
+    "./generated_files/voco_v2_unity_rescale/g_02500000/LJ002-0167.wav": {
+        "wave_idx": 5,
+        "total_f_idx": 53,
+        "idx_per_model": 2
+    },
+    "./generated_files/voco_v2_mpd/g_02500000/LJ019-0240.wav": {
+        "wave_idx": 6,
+        "total_f_idx": 5,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v2_msd/g_02500000/LJ019-0240.wav": {
+        "wave_idx": 6,
+        "total_f_idx": 18,
+        "idx_per_model": 2
+    },
+    "./generated_files/voco_v2_msdcd_feb_large/g_02500000/LJ019-0240.wav": {
+        "wave_idx": 6,
+        "total_f_idx": 26,
+        "idx_per_model": 0
+    },
+    "./generated_files/voco_v2_unity_rescale/g_02500000/LJ019-0240.wav": {
+        "wave_idx": 6,
+        "total_f_idx": 15,
+        "idx_per_model": 1
+    },
+    "./generated_files/voco_v2_mpd/g_02500000/LJ046-0244.wav": {
+        "wave_idx": 7,
+        "total_f_idx": 23,
+        "idx_per_model": 2
+    },
+    "./generated_files/voco_v2_msd/g_02500000/LJ046-0244.wav": {
+        "wave_idx": 7,
+        "total_f_idx": 28,
+        "idx_per_model": 0
+    },
+    "./generated_files/voco_v2_msdcd_feb_large/g_02500000/LJ046-0244.wav": {
+        "wave_idx": 7,
+        "total_f_idx": 49,
+        "idx_per_model": 1
+    },
+    "./generated_files/voco_v2_unity_rescale/g_02500000/LJ046-0244.wav": {
+        "wave_idx": 7,
+        "total_f_idx": 67,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v2_mpd/g_02500000/LJ040-0161.wav": {
+        "wave_idx": 8,
+        "total_f_idx": 12,
+        "idx_per_model": 0
+    },
+    "./generated_files/voco_v2_msd/g_02500000/LJ040-0161.wav": {
+        "wave_idx": 8,
+        "total_f_idx": 25,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v2_msdcd_feb_large/g_02500000/LJ040-0161.wav": {
+        "wave_idx": 8,
+        "total_f_idx": 48,
+        "idx_per_model": 2
+    },
+    "./generated_files/voco_v2_unity_rescale/g_02500000/LJ040-0161.wav": {
+        "wave_idx": 8,
+        "total_f_idx": 64,
+        "idx_per_model": 1
+    },
+    "./generated_files/voco_v2_mpd/g_02500000/LJ007-0243.wav": {
+        "wave_idx": 9,
+        "total_f_idx": 29,
+        "idx_per_model": 0
+    },
+    "./generated_files/voco_v2_msd/g_02500000/LJ007-0243.wav": {
+        "wave_idx": 9,
+        "total_f_idx": 32,
+        "idx_per_model": 1
+    },
+    "./generated_files/voco_v2_msdcd_feb_large/g_02500000/LJ007-0243.wav": {
+        "wave_idx": 9,
+        "total_f_idx": 54,
+        "idx_per_model": 2
+    },
+    "./generated_files/voco_v2_unity_rescale/g_02500000/LJ007-0243.wav": {
+        "wave_idx": 9,
+        "total_f_idx": 62,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v2_mpd/g_02500000/LJ012-0145.wav": {
+        "wave_idx": 10,
+        "total_f_idx": 50,
+        "idx_per_model": 0
+    },
+    "./generated_files/voco_v2_msd/g_02500000/LJ012-0145.wav": {
+        "wave_idx": 10,
+        "total_f_idx": 22,
+        "idx_per_model": 1
+    },
+    "./generated_files/voco_v2_msdcd_feb_large/g_02500000/LJ012-0145.wav": {
+        "wave_idx": 10,
+        "total_f_idx": 19,
+        "idx_per_model": 2
+    },
+    "./generated_files/voco_v2_unity_rescale/g_02500000/LJ012-0145.wav": {
+        "wave_idx": 10,
+        "total_f_idx": 41,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v2_mpd/g_02500000/LJ037-0219.wav": {
+        "wave_idx": 11,
+        "total_f_idx": 56,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v2_msd/g_02500000/LJ037-0219.wav": {
+        "wave_idx": 11,
+        "total_f_idx": 66,
+        "idx_per_model": 2
+    },
+    "./generated_files/voco_v2_msdcd_feb_large/g_02500000/LJ037-0219.wav": {
+        "wave_idx": 11,
+        "total_f_idx": 65,
+        "idx_per_model": 1
+    },
+    "./generated_files/voco_v2_unity_rescale/g_02500000/LJ037-0219.wav": {
+        "wave_idx": 11,
+        "total_f_idx": 16,
+        "idx_per_model": 0
+    },
+    "./generated_files/voco_v2_mpd/g_02500000/LJ005-0202.wav": {
+        "wave_idx": 12,
+        "total_f_idx": 6,
+        "idx_per_model": 1
+    },
+    "./generated_files/voco_v2_msd/g_02500000/LJ005-0202.wav": {
+        "wave_idx": 12,
+        "total_f_idx": 39,
+        "idx_per_model": 2
+    },
+    "./generated_files/voco_v2_msdcd_feb_large/g_02500000/LJ005-0202.wav": {
+        "wave_idx": 12,
+        "total_f_idx": 27,
+        "idx_per_model": 0
+    },
+    "./generated_files/voco_v2_unity_rescale/g_02500000/LJ005-0202.wav": {
+        "wave_idx": 12,
+        "total_f_idx": 34,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v2_mpd/g_02500000/LJ050-0189.wav": {
+        "wave_idx": 13,
+        "total_f_idx": 1,
+        "idx_per_model": 0
+    },
+    "./generated_files/voco_v2_msd/g_02500000/LJ050-0189.wav": {
+        "wave_idx": 13,
+        "total_f_idx": 43,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v2_msdcd_feb_large/g_02500000/LJ050-0189.wav": {
+        "wave_idx": 13,
+        "total_f_idx": 3,
+        "idx_per_model": 2
+    },
+    "./generated_files/voco_v2_unity_rescale/g_02500000/LJ050-0189.wav": {
+        "wave_idx": 13,
+        "total_f_idx": 51,
+        "idx_per_model": 1
+    },
+    "./generated_files/voco_v2_mpd/g_02500000/LJ005-0248.wav": {
+        "wave_idx": 14,
+        "total_f_idx": 46,
+        "idx_per_model": 0
+    },
+    "./generated_files/voco_v2_msd/g_02500000/LJ005-0248.wav": {
+        "wave_idx": 14,
+        "total_f_idx": 13,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v2_msdcd_feb_large/g_02500000/LJ005-0248.wav": {
+        "wave_idx": 14,
+        "total_f_idx": 30,
+        "idx_per_model": 2
+    },
+    "./generated_files/voco_v2_unity_rescale/g_02500000/LJ005-0248.wav": {
+        "wave_idx": 14,
+        "total_f_idx": 7,
+        "idx_per_model": 1
+    },
+    "./generated_files/voco_v2_mpd/g_02500000/LJ048-0104.wav": {
+        "wave_idx": 15,
+        "total_f_idx": 45,
+        "idx_per_model": 2
+    },
+    "./generated_files/voco_v2_msd/g_02500000/LJ048-0104.wav": {
+        "wave_idx": 15,
+        "total_f_idx": 11,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v2_msdcd_feb_large/g_02500000/LJ048-0104.wav": {
+        "wave_idx": 15,
+        "total_f_idx": 61,
+        "idx_per_model": 1
+    },
+    "./generated_files/voco_v2_unity_rescale/g_02500000/LJ048-0104.wav": {
+        "wave_idx": 15,
+        "total_f_idx": 24,
+        "idx_per_model": 0
+    },
+    "./generated_files/voco_v2_mpd/g_02500000/LJ035-0189.wav": {
+        "wave_idx": 16,
+        "total_f_idx": 2,
+        "idx_per_model": 2
+    },
+    "./generated_files/voco_v2_msd/g_02500000/LJ035-0189.wav": {
+        "wave_idx": 16,
+        "total_f_idx": 4,
+        "idx_per_model": 0
+    },
+    "./generated_files/voco_v2_msdcd_feb_large/g_02500000/LJ035-0189.wav": {
+        "wave_idx": 16,
+        "total_f_idx": 14,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v2_unity_rescale/g_02500000/LJ035-0189.wav": {
+        "wave_idx": 16,
+        "total_f_idx": 47,
+        "idx_per_model": 1
+    }
+}
