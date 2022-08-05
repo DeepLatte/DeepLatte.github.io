@@ -6,522 +6,497 @@
     },
     "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p254_005.wav": {
         "wave_idx": 0,
-        "total_f_idx": 0,
+        "total_f_idx": 37,
         "idx_per_model": 3
     },
     "./generated_files/stylemelgan_vctk4/g_01000000/p254_005.wav": {
         "wave_idx": 0,
-        "total_f_idx": 59,
+        "total_f_idx": 53,
         "idx_per_model": 0
     },
     "./generated_files/vocgan_near_24k_vctk/g_01000000/p254_005.wav": {
         "wave_idx": 0,
-        "total_f_idx": 53,
-        "idx_per_model": 2
+        "total_f_idx": 51,
+        "idx_per_model": 1
     },
     "./generated_files/gt_vctk/p254_005.wav": {
         "wave_idx": 0,
-        "total_f_idx": 96,
-        "idx_per_model": 1
+        "total_f_idx": 0,
+        "idx_per_model": 2
     },
     "./generated_files/hifigan_v1_24k_vctk/g_01000000/p259_250.wav": {
         "wave_idx": 1,
-        "total_f_idx": 54,
+        "total_f_idx": 12,
         "idx_per_model": 4
     },
     "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p259_250.wav": {
         "wave_idx": 1,
-        "total_f_idx": 56,
-        "idx_per_model": 0
+        "total_f_idx": 39,
+        "idx_per_model": 1
     },
     "./generated_files/stylemelgan_vctk4/g_01000000/p259_250.wav": {
         "wave_idx": 1,
-        "total_f_idx": 63,
-        "idx_per_model": 3
+        "total_f_idx": 83,
+        "idx_per_model": 0
     },
     "./generated_files/vocgan_near_24k_vctk/g_01000000/p259_250.wav": {
         "wave_idx": 1,
-        "total_f_idx": 26,
-        "idx_per_model": 1
+        "total_f_idx": 78,
+        "idx_per_model": 2
     },
     "./generated_files/gt_vctk/p259_250.wav": {
         "wave_idx": 1,
-        "total_f_idx": 39,
-        "idx_per_model": 2
-    },
-    "./generated_files/hifigan_v1_24k_vctk/g_01000000/p270_111.wav": {
-        "wave_idx": 2,
         "total_f_idx": 15,
         "idx_per_model": 3
     },
+    "./generated_files/hifigan_v1_24k_vctk/g_01000000/p270_111.wav": {
+        "wave_idx": 2,
+        "total_f_idx": 19,
+        "idx_per_model": 0
+    },
     "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p270_111.wav": {
         "wave_idx": 2,
-        "total_f_idx": 37,
-        "idx_per_model": 0
+        "total_f_idx": 68,
+        "idx_per_model": 4
     },
     "./generated_files/stylemelgan_vctk4/g_01000000/p270_111.wav": {
         "wave_idx": 2,
-        "total_f_idx": 25,
+        "total_f_idx": 16,
         "idx_per_model": 1
     },
     "./generated_files/vocgan_near_24k_vctk/g_01000000/p270_111.wav": {
         "wave_idx": 2,
-        "total_f_idx": 16,
-        "idx_per_model": 2
+        "total_f_idx": 27,
+        "idx_per_model": 3
     },
     "./generated_files/gt_vctk/p270_111.wav": {
         "wave_idx": 2,
-        "total_f_idx": 77,
-        "idx_per_model": 4
+        "total_f_idx": 56,
+        "idx_per_model": 2
     },
     "./generated_files/hifigan_v1_24k_vctk/g_01000000/p270_441.wav": {
         "wave_idx": 3,
-        "total_f_idx": 103,
+        "total_f_idx": 88,
         "idx_per_model": 1
     },
     "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p270_441.wav": {
         "wave_idx": 3,
-        "total_f_idx": 88,
-        "idx_per_model": 2
+        "total_f_idx": 10,
+        "idx_per_model": 4
     },
     "./generated_files/stylemelgan_vctk4/g_01000000/p270_441.wav": {
         "wave_idx": 3,
-        "total_f_idx": 12,
+        "total_f_idx": 72,
         "idx_per_model": 3
     },
     "./generated_files/vocgan_near_24k_vctk/g_01000000/p270_441.wav": {
         "wave_idx": 3,
-        "total_f_idx": 68,
-        "idx_per_model": 4
+        "total_f_idx": 57,
+        "idx_per_model": 0
     },
     "./generated_files/gt_vctk/p270_441.wav": {
         "wave_idx": 3,
-        "total_f_idx": 10,
-        "idx_per_model": 0
-    },
-    "./generated_files/hifigan_v1_24k_vctk/g_01000000/p272_185.wav": {
-        "wave_idx": 4,
-        "total_f_idx": 95,
-        "idx_per_model": 1
-    },
-    "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p272_185.wav": {
-        "wave_idx": 4,
-        "total_f_idx": 60,
-        "idx_per_model": 0
-    },
-    "./generated_files/stylemelgan_vctk4/g_01000000/p272_185.wav": {
-        "wave_idx": 4,
-        "total_f_idx": 57,
+        "total_f_idx": 94,
         "idx_per_model": 2
     },
-    "./generated_files/vocgan_near_24k_vctk/g_01000000/p272_185.wav": {
+    "./generated_files/hifigan_v1_24k_vctk/g_01000000/p272_185.wav": {
         "wave_idx": 4,
         "total_f_idx": 8,
         "idx_per_model": 3
     },
+    "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p272_185.wav": {
+        "wave_idx": 4,
+        "total_f_idx": 81,
+        "idx_per_model": 0
+    },
+    "./generated_files/stylemelgan_vctk4/g_01000000/p272_185.wav": {
+        "wave_idx": 4,
+        "total_f_idx": 92,
+        "idx_per_model": 1
+    },
+    "./generated_files/vocgan_near_24k_vctk/g_01000000/p272_185.wav": {
+        "wave_idx": 4,
+        "total_f_idx": 43,
+        "idx_per_model": 2
+    },
     "./generated_files/gt_vctk/p272_185.wav": {
         "wave_idx": 4,
-        "total_f_idx": 86,
+        "total_f_idx": 25,
         "idx_per_model": 4
     },
     "./generated_files/hifigan_v1_24k_vctk/g_01000000/p278_280.wav": {
         "wave_idx": 5,
-        "total_f_idx": 47,
-        "idx_per_model": 0
+        "total_f_idx": 42,
+        "idx_per_model": 3
     },
     "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p278_280.wav": {
         "wave_idx": 5,
-        "total_f_idx": 31,
+        "total_f_idx": 87,
         "idx_per_model": 4
     },
     "./generated_files/stylemelgan_vctk4/g_01000000/p278_280.wav": {
         "wave_idx": 5,
-        "total_f_idx": 23,
-        "idx_per_model": 1
+        "total_f_idx": 47,
+        "idx_per_model": 0
     },
     "./generated_files/vocgan_near_24k_vctk/g_01000000/p278_280.wav": {
         "wave_idx": 5,
-        "total_f_idx": 87,
-        "idx_per_model": 2
+        "total_f_idx": 31,
+        "idx_per_model": 1
     },
     "./generated_files/gt_vctk/p278_280.wav": {
         "wave_idx": 5,
-        "total_f_idx": 72,
-        "idx_per_model": 3
+        "total_f_idx": 23,
+        "idx_per_model": 2
     },
     "./generated_files/hifigan_v1_24k_vctk/g_01000000/p283_012.wav": {
         "wave_idx": 6,
-        "total_f_idx": 84,
-        "idx_per_model": 3
+        "total_f_idx": 26,
+        "idx_per_model": 4
     },
     "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p283_012.wav": {
         "wave_idx": 6,
-        "total_f_idx": 27,
-        "idx_per_model": 1
+        "total_f_idx": 95,
+        "idx_per_model": 2
     },
     "./generated_files/stylemelgan_vctk4/g_01000000/p283_012.wav": {
         "wave_idx": 6,
-        "total_f_idx": 92,
-        "idx_per_model": 0
+        "total_f_idx": 5,
+        "idx_per_model": 3
     },
     "./generated_files/vocgan_near_24k_vctk/g_01000000/p283_012.wav": {
         "wave_idx": 6,
-        "total_f_idx": 42,
-        "idx_per_model": 2
+        "total_f_idx": 18,
+        "idx_per_model": 0
     },
     "./generated_files/gt_vctk/p283_012.wav": {
         "wave_idx": 6,
-        "total_f_idx": 102,
-        "idx_per_model": 4
+        "total_f_idx": 54,
+        "idx_per_model": 1
     },
     "./generated_files/hifigan_v1_24k_vctk/g_01000000/p314_036.wav": {
         "wave_idx": 7,
-        "total_f_idx": 5,
+        "total_f_idx": 60,
         "idx_per_model": 1
     },
     "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p314_036.wav": {
         "wave_idx": 7,
-        "total_f_idx": 18,
-        "idx_per_model": 0
+        "total_f_idx": 66,
+        "idx_per_model": 3
     },
     "./generated_files/stylemelgan_vctk4/g_01000000/p314_036.wav": {
         "wave_idx": 7,
-        "total_f_idx": 43,
-        "idx_per_model": 2
+        "total_f_idx": 21,
+        "idx_per_model": 4
     },
     "./generated_files/vocgan_near_24k_vctk/g_01000000/p314_036.wav": {
         "wave_idx": 7,
-        "total_f_idx": 24,
-        "idx_per_model": 4
+        "total_f_idx": 98,
+        "idx_per_model": 0
     },
     "./generated_files/gt_vctk/p314_036.wav": {
         "wave_idx": 7,
-        "total_f_idx": 82,
-        "idx_per_model": 3
+        "total_f_idx": 63,
+        "idx_per_model": 2
     },
     "./generated_files/hifigan_v1_24k_vctk/g_01000000/p314_156.wav": {
         "wave_idx": 8,
-        "total_f_idx": 21,
-        "idx_per_model": 1
+        "total_f_idx": 38,
+        "idx_per_model": 3
     },
     "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p314_156.wav": {
         "wave_idx": 8,
-        "total_f_idx": 7,
+        "total_f_idx": 96,
         "idx_per_model": 4
     },
     "./generated_files/stylemelgan_vctk4/g_01000000/p314_156.wav": {
         "wave_idx": 8,
-        "total_f_idx": 66,
-        "idx_per_model": 3
+        "total_f_idx": 13,
+        "idx_per_model": 0
     },
     "./generated_files/vocgan_near_24k_vctk/g_01000000/p314_156.wav": {
         "wave_idx": 8,
-        "total_f_idx": 38,
-        "idx_per_model": 0
+        "total_f_idx": 91,
+        "idx_per_model": 2
     },
     "./generated_files/gt_vctk/p314_156.wav": {
         "wave_idx": 8,
-        "total_f_idx": 97,
-        "idx_per_model": 2
+        "total_f_idx": 82,
+        "idx_per_model": 1
     },
     "./generated_files/hifigan_v1_24k_vctk/g_01000000/p314_200.wav": {
         "wave_idx": 9,
-        "total_f_idx": 13,
-        "idx_per_model": 1
+        "total_f_idx": 85,
+        "idx_per_model": 3
     },
     "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p314_200.wav": {
         "wave_idx": 9,
-        "total_f_idx": 55,
-        "idx_per_model": 4
+        "total_f_idx": 84,
+        "idx_per_model": 2
     },
     "./generated_files/stylemelgan_vctk4/g_01000000/p314_200.wav": {
         "wave_idx": 9,
-        "total_f_idx": 85,
-        "idx_per_model": 2
+        "total_f_idx": 17,
+        "idx_per_model": 1
     },
     "./generated_files/vocgan_near_24k_vctk/g_01000000/p314_200.wav": {
         "wave_idx": 9,
-        "total_f_idx": 73,
-        "idx_per_model": 3
+        "total_f_idx": 59,
+        "idx_per_model": 4
     },
     "./generated_files/gt_vctk/p314_200.wav": {
         "wave_idx": 9,
-        "total_f_idx": 51,
+        "total_f_idx": 1,
         "idx_per_model": 0
     },
     "./generated_files/hifigan_v1_24k_vctk/g_01000000/p334_014.wav": {
         "wave_idx": 10,
-        "total_f_idx": 17,
-        "idx_per_model": 2
+        "total_f_idx": 86,
+        "idx_per_model": 3
     },
     "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p334_014.wav": {
         "wave_idx": 10,
-        "total_f_idx": 71,
-        "idx_per_model": 4
+        "total_f_idx": 55,
+        "idx_per_model": 2
     },
     "./generated_files/stylemelgan_vctk4/g_01000000/p334_014.wav": {
         "wave_idx": 10,
-        "total_f_idx": 1,
-        "idx_per_model": 1
+        "total_f_idx": 41,
+        "idx_per_model": 0
     },
     "./generated_files/vocgan_near_24k_vctk/g_01000000/p334_014.wav": {
         "wave_idx": 10,
-        "total_f_idx": 89,
-        "idx_per_model": 3
+        "total_f_idx": 46,
+        "idx_per_model": 1
     },
     "./generated_files/gt_vctk/p334_014.wav": {
         "wave_idx": 10,
-        "total_f_idx": 91,
-        "idx_per_model": 0
+        "total_f_idx": 35,
+        "idx_per_model": 4
     },
     "./generated_files/hifigan_v1_24k_vctk/g_01000000/p334_034.wav": {
         "wave_idx": 11,
-        "total_f_idx": 41,
-        "idx_per_model": 1
+        "total_f_idx": 29,
+        "idx_per_model": 0
     },
     "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p334_034.wav": {
         "wave_idx": 11,
-        "total_f_idx": 46,
-        "idx_per_model": 0
+        "total_f_idx": 6,
+        "idx_per_model": 2
     },
     "./generated_files/stylemelgan_vctk4/g_01000000/p334_034.wav": {
         "wave_idx": 11,
-        "total_f_idx": 35,
-        "idx_per_model": 2
+        "total_f_idx": 4,
+        "idx_per_model": 3
     },
     "./generated_files/vocgan_near_24k_vctk/g_01000000/p334_034.wav": {
         "wave_idx": 11,
-        "total_f_idx": 29,
-        "idx_per_model": 4
+        "total_f_idx": 11,
+        "idx_per_model": 1
     },
     "./generated_files/gt_vctk/p334_034.wav": {
         "wave_idx": 11,
-        "total_f_idx": 6,
-        "idx_per_model": 3
+        "total_f_idx": 3,
+        "idx_per_model": 4
     },
     "./generated_files/hifigan_v1_24k_vctk/g_01000000/p317_004.wav": {
         "wave_idx": 12,
-        "total_f_idx": 4,
-        "idx_per_model": 4
+        "total_f_idx": 24,
+        "idx_per_model": 3
     },
     "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p317_004.wav": {
         "wave_idx": 12,
-        "total_f_idx": 11,
-        "idx_per_model": 3
+        "total_f_idx": 7,
+        "idx_per_model": 4
     },
     "./generated_files/stylemelgan_vctk4/g_01000000/p317_004.wav": {
         "wave_idx": 12,
-        "total_f_idx": 3,
-        "idx_per_model": 2
+        "total_f_idx": 74,
+        "idx_per_model": 0
     },
     "./generated_files/vocgan_near_24k_vctk/g_01000000/p317_004.wav": {
         "wave_idx": 12,
-        "total_f_idx": 75,
-        "idx_per_model": 1
+        "total_f_idx": 77,
+        "idx_per_model": 2
     },
     "./generated_files/gt_vctk/p317_004.wav": {
         "wave_idx": 12,
-        "total_f_idx": 81,
-        "idx_per_model": 0
+        "total_f_idx": 14,
+        "idx_per_model": 1
     },
     "./generated_files/hifigan_v1_24k_vctk/g_01000000/p317_019.wav": {
         "wave_idx": 13,
-        "total_f_idx": 19,
-        "idx_per_model": 1
+        "total_f_idx": 90,
+        "idx_per_model": 2
     },
     "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p317_019.wav": {
         "wave_idx": 13,
-        "total_f_idx": 80,
-        "idx_per_model": 0
+        "total_f_idx": 71,
+        "idx_per_model": 1
     },
     "./generated_files/stylemelgan_vctk4/g_01000000/p317_019.wav": {
         "wave_idx": 13,
-        "total_f_idx": 14,
-        "idx_per_model": 3
+        "total_f_idx": 75,
+        "idx_per_model": 0
     },
     "./generated_files/vocgan_near_24k_vctk/g_01000000/p317_019.wav": {
         "wave_idx": 13,
-        "total_f_idx": 94,
-        "idx_per_model": 2
+        "total_f_idx": 62,
+        "idx_per_model": 3
     },
     "./generated_files/gt_vctk/p317_019.wav": {
         "wave_idx": 13,
-        "total_f_idx": 74,
+        "total_f_idx": 32,
         "idx_per_model": 4
     },
     "./generated_files/hifigan_v1_24k_vctk/g_01000000/p254_034.wav": {
         "wave_idx": 14,
-        "total_f_idx": 78,
+        "total_f_idx": 73,
         "idx_per_model": 3
     },
     "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p254_034.wav": {
         "wave_idx": 14,
-        "total_f_idx": 62,
-        "idx_per_model": 1
+        "total_f_idx": 20,
+        "idx_per_model": 4
     },
     "./generated_files/stylemelgan_vctk4/g_01000000/p254_034.wav": {
         "wave_idx": 14,
-        "total_f_idx": 32,
-        "idx_per_model": 0
+        "total_f_idx": 49,
+        "idx_per_model": 1
     },
     "./generated_files/vocgan_near_24k_vctk/g_01000000/p254_034.wav": {
         "wave_idx": 14,
         "total_f_idx": 76,
-        "idx_per_model": 2
+        "idx_per_model": 0
     },
     "./generated_files/gt_vctk/p254_034.wav": {
         "wave_idx": 14,
-        "total_f_idx": 20,
-        "idx_per_model": 4
-    },
-    "./generated_files/hifigan_v1_24k_vctk/g_01000000/p314_322.wav": {
-        "wave_idx": 15,
-        "total_f_idx": 49,
-        "idx_per_model": 3
-    },
-    "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p314_322.wav": {
-        "wave_idx": 15,
-        "total_f_idx": 98,
-        "idx_per_model": 1
-    },
-    "./generated_files/stylemelgan_vctk4/g_01000000/p314_322.wav": {
-        "wave_idx": 15,
         "total_f_idx": 9,
         "idx_per_model": 2
     },
-    "./generated_files/vocgan_near_24k_vctk/g_01000000/p314_322.wav": {
+    "./generated_files/hifigan_v1_24k_vctk/g_01000000/p314_322.wav": {
         "wave_idx": 15,
         "total_f_idx": 2,
+        "idx_per_model": 1
+    },
+    "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p314_322.wav": {
+        "wave_idx": 15,
+        "total_f_idx": 33,
+        "idx_per_model": 3
+    },
+    "./generated_files/stylemelgan_vctk4/g_01000000/p314_322.wav": {
+        "wave_idx": 15,
+        "total_f_idx": 28,
+        "idx_per_model": 4
+    },
+    "./generated_files/vocgan_near_24k_vctk/g_01000000/p314_322.wav": {
+        "wave_idx": 15,
+        "total_f_idx": 67,
         "idx_per_model": 0
     },
     "./generated_files/gt_vctk/p314_322.wav": {
         "wave_idx": 15,
-        "total_f_idx": 33,
-        "idx_per_model": 4
+        "total_f_idx": 80,
+        "idx_per_model": 2
     },
     "./generated_files/hifigan_v1_24k_vctk/g_01000000/p314_330.wav": {
         "wave_idx": 16,
-        "total_f_idx": 28,
+        "total_f_idx": 99,
         "idx_per_model": 1
     },
     "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p314_330.wav": {
         "wave_idx": 16,
-        "total_f_idx": 67,
-        "idx_per_model": 4
-    },
-    "./generated_files/stylemelgan_vctk4/g_01000000/p314_330.wav": {
-        "wave_idx": 16,
-        "total_f_idx": 83,
-        "idx_per_model": 2
-    },
-    "./generated_files/vocgan_near_24k_vctk/g_01000000/p314_330.wav": {
-        "wave_idx": 16,
-        "total_f_idx": 104,
-        "idx_per_model": 0
-    },
-    "./generated_files/gt_vctk/p314_330.wav": {
-        "wave_idx": 16,
         "total_f_idx": 45,
         "idx_per_model": 3
     },
-    "./generated_files/hifigan_v1_24k_vctk/g_01000000/p317_315.wav": {
-        "wave_idx": 17,
+    "./generated_files/stylemelgan_vctk4/g_01000000/p314_330.wav": {
+        "wave_idx": 16,
         "total_f_idx": 30,
+        "idx_per_model": 0
+    },
+    "./generated_files/vocgan_near_24k_vctk/g_01000000/p314_330.wav": {
+        "wave_idx": 16,
+        "total_f_idx": 89,
         "idx_per_model": 4
     },
-    "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p317_315.wav": {
-        "wave_idx": 17,
-        "total_f_idx": 100,
-        "idx_per_model": 1
-    },
-    "./generated_files/stylemelgan_vctk4/g_01000000/p317_315.wav": {
-        "wave_idx": 17,
+    "./generated_files/gt_vctk/p314_330.wav": {
+        "wave_idx": 16,
         "total_f_idx": 48,
         "idx_per_model": 2
     },
-    "./generated_files/vocgan_near_24k_vctk/g_01000000/p317_315.wav": {
+    "./generated_files/hifigan_v1_24k_vctk/g_01000000/p317_315.wav": {
         "wave_idx": 17,
         "total_f_idx": 70,
         "idx_per_model": 3
     },
-    "./generated_files/gt_vctk/p317_315.wav": {
+    "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p317_315.wav": {
         "wave_idx": 17,
         "total_f_idx": 50,
+        "idx_per_model": 2
+    },
+    "./generated_files/stylemelgan_vctk4/g_01000000/p317_315.wav": {
+        "wave_idx": 17,
+        "total_f_idx": 58,
         "idx_per_model": 0
+    },
+    "./generated_files/vocgan_near_24k_vctk/g_01000000/p317_315.wav": {
+        "wave_idx": 17,
+        "total_f_idx": 44,
+        "idx_per_model": 4
+    },
+    "./generated_files/gt_vctk/p317_315.wav": {
+        "wave_idx": 17,
+        "total_f_idx": 36,
+        "idx_per_model": 1
     },
     "./generated_files/hifigan_v1_24k_vctk/g_01000000/p334_186.wav": {
         "wave_idx": 18,
-        "total_f_idx": 58,
+        "total_f_idx": 61,
         "idx_per_model": 2
     },
     "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p334_186.wav": {
         "wave_idx": 18,
-        "total_f_idx": 90,
-        "idx_per_model": 1
+        "total_f_idx": 52,
+        "idx_per_model": 3
     },
     "./generated_files/stylemelgan_vctk4/g_01000000/p334_186.wav": {
         "wave_idx": 18,
-        "total_f_idx": 44,
-        "idx_per_model": 3
+        "total_f_idx": 34,
+        "idx_per_model": 0
     },
     "./generated_files/vocgan_near_24k_vctk/g_01000000/p334_186.wav": {
         "wave_idx": 18,
-        "total_f_idx": 36,
-        "idx_per_model": 4
+        "total_f_idx": 22,
+        "idx_per_model": 1
     },
     "./generated_files/gt_vctk/p334_186.wav": {
         "wave_idx": 18,
-        "total_f_idx": 61,
-        "idx_per_model": 0
+        "total_f_idx": 79,
+        "idx_per_model": 4
     },
     "./generated_files/hifigan_v1_24k_vctk/g_01000000/p334_307.wav": {
         "wave_idx": 19,
-        "total_f_idx": 52,
+        "total_f_idx": 97,
         "idx_per_model": 0
     },
     "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p334_307.wav": {
         "wave_idx": 19,
-        "total_f_idx": 34,
-        "idx_per_model": 2
+        "total_f_idx": 93,
+        "idx_per_model": 3
     },
     "./generated_files/stylemelgan_vctk4/g_01000000/p334_307.wav": {
         "wave_idx": 19,
-        "total_f_idx": 22,
-        "idx_per_model": 4
+        "total_f_idx": 64,
+        "idx_per_model": 1
     },
     "./generated_files/vocgan_near_24k_vctk/g_01000000/p334_307.wav": {
         "wave_idx": 19,
-        "total_f_idx": 79,
-        "idx_per_model": 1
+        "total_f_idx": 65,
+        "idx_per_model": 2
     },
     "./generated_files/gt_vctk/p334_307.wav": {
         "wave_idx": 19,
-        "total_f_idx": 101,
-        "idx_per_model": 3
-    },
-    "./generated_files/hifigan_v1_24k_vctk/g_01000000/p317_323.wav": {
-        "wave_idx": 20,
-        "total_f_idx": 93,
-        "idx_per_model": 0
-    },
-    "./generated_files/avocodo_v1_24k_vctk_re/g_01000000/p317_323.wav": {
-        "wave_idx": 20,
-        "total_f_idx": 64,
-        "idx_per_model": 3
-    },
-    "./generated_files/stylemelgan_vctk4/g_01000000/p317_323.wav": {
-        "wave_idx": 20,
-        "total_f_idx": 99,
-        "idx_per_model": 1
-    },
-    "./generated_files/vocgan_near_24k_vctk/g_01000000/p317_323.wav": {
-        "wave_idx": 20,
-        "total_f_idx": 65,
-        "idx_per_model": 4
-    },
-    "./generated_files/gt_vctk/p317_323.wav": {
-        "wave_idx": 20,
         "total_f_idx": 69,
-        "idx_per_model": 2
+        "idx_per_model": 4
     }
 }
