@@ -15,6 +15,10 @@ def hello_world():
 def instruction():
     return render_template('instruction.html')
 
+@app.route("/instruction_vctk")
+def instruction_vctk():
+    return render_template('instruction_vctk.html')
+
 @app.route("/avocodo/<path:path>")
 def link_file(path):
     return flask.send_from_directory(
