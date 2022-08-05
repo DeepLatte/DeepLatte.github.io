@@ -1,512 +1,527 @@
 {
-    "./generated_files/LJ_V1/generator_v1/LJ013-0020.wav": {
+    "./generated_files/LJ_V1/generator_v1/LJ003-0307.wav": {
         "wave_idx": 0,
-        "total_f_idx": 73,
+        "total_f_idx": 76,
         "idx_per_model": 4
     },
-    "./generated_files/LJ_V2/generator_v2/LJ013-0020.wav": {
+    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ003-0307.wav": {
         "wave_idx": 0,
-        "total_f_idx": 45,
-        "idx_per_model": 3
+        "total_f_idx": 47,
+        "idx_per_model": 1
     },
-    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ013-0020.wav": {
+    "./generated_files/vocgan_near/g_02500000/LJ003-0307.wav": {
         "wave_idx": 0,
         "total_f_idx": 26,
-        "idx_per_model": 5
-    },
-    "./generated_files/voco_v2_feb_fix_tr/g_03000000/LJ013-0020.wav": {
-        "wave_idx": 0,
-        "total_f_idx": 61,
-        "idx_per_model": 1
-    },
-    "./generated_files/vocgan_near/g_02500000/LJ013-0020.wav": {
-        "wave_idx": 0,
-        "total_f_idx": 72,
-        "idx_per_model": 0
-    },
-    "./test_files_norm/LJSpeech-1.1/LJ013-0020.wav": {
-        "wave_idx": 0,
-        "total_f_idx": 36,
-        "idx_per_model": 2
-    },
-    "./generated_files/LJ_V1/generator_v1/LJ010-0234.wav": {
-        "wave_idx": 1,
-        "total_f_idx": 64,
-        "idx_per_model": 5
-    },
-    "./generated_files/LJ_V2/generator_v2/LJ010-0234.wav": {
-        "wave_idx": 1,
-        "total_f_idx": 30,
-        "idx_per_model": 2
-    },
-    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ010-0234.wav": {
-        "wave_idx": 1,
-        "total_f_idx": 7,
-        "idx_per_model": 4
-    },
-    "./generated_files/voco_v2_feb_fix_tr/g_03000000/LJ010-0234.wav": {
-        "wave_idx": 1,
-        "total_f_idx": 98,
-        "idx_per_model": 1
-    },
-    "./generated_files/vocgan_near/g_02500000/LJ010-0234.wav": {
-        "wave_idx": 1,
-        "total_f_idx": 87,
         "idx_per_model": 3
     },
-    "./test_files_norm/LJSpeech-1.1/LJ010-0234.wav": {
-        "wave_idx": 1,
-        "total_f_idx": 75,
+    "./generated_files/stylemelgan_lj_re4/g_01400000/LJ003-0307.wav": {
+        "wave_idx": 0,
+        "total_f_idx": 12,
         "idx_per_model": 0
     },
-    "./generated_files/LJ_V1/generator_v1/LJ014-0272.wav": {
-        "wave_idx": 2,
-        "total_f_idx": 15,
-        "idx_per_model": 0
-    },
-    "./generated_files/LJ_V2/generator_v2/LJ014-0272.wav": {
-        "wave_idx": 2,
-        "total_f_idx": 19,
+    "./test_files_norm/LJSpeech-1.1/LJ003-0307.wav": {
+        "wave_idx": 0,
+        "total_f_idx": 62,
         "idx_per_model": 2
     },
-    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ014-0272.wav": {
+    "./generated_files/LJ_V1/generator_v1/LJ005-0108.wav": {
+        "wave_idx": 1,
+        "total_f_idx": 36,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ005-0108.wav": {
+        "wave_idx": 1,
+        "total_f_idx": 85,
+        "idx_per_model": 4
+    },
+    "./generated_files/vocgan_near/g_02500000/LJ005-0108.wav": {
+        "wave_idx": 1,
+        "total_f_idx": 30,
+        "idx_per_model": 0
+    },
+    "./generated_files/stylemelgan_lj_re4/g_01400000/LJ005-0108.wav": {
+        "wave_idx": 1,
+        "total_f_idx": 7,
+        "idx_per_model": 1
+    },
+    "./test_files_norm/LJSpeech-1.1/LJ005-0108.wav": {
+        "wave_idx": 1,
+        "total_f_idx": 101,
+        "idx_per_model": 2
+    },
+    "./generated_files/LJ_V1/generator_v1/LJ005-0248.wav": {
+        "wave_idx": 2,
+        "total_f_idx": 90,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ005-0248.wav": {
+        "wave_idx": 2,
+        "total_f_idx": 78,
+        "idx_per_model": 4
+    },
+    "./generated_files/vocgan_near/g_02500000/LJ005-0248.wav": {
+        "wave_idx": 2,
+        "total_f_idx": 15,
+        "idx_per_model": 2
+    },
+    "./generated_files/stylemelgan_lj_re4/g_01400000/LJ005-0248.wav": {
+        "wave_idx": 2,
+        "total_f_idx": 19,
+        "idx_per_model": 0
+    },
+    "./test_files_norm/LJSpeech-1.1/LJ005-0248.wav": {
         "wave_idx": 2,
         "total_f_idx": 17,
-        "idx_per_model": 5
+        "idx_per_model": 1
     },
-    "./generated_files/voco_v2_feb_fix_tr/g_03000000/LJ014-0272.wav": {
-        "wave_idx": 2,
+    "./generated_files/LJ_V1/generator_v1/LJ006-0034.wav": {
+        "wave_idx": 3,
         "total_f_idx": 0,
         "idx_per_model": 1
     },
-    "./generated_files/vocgan_near/g_02500000/LJ014-0272.wav": {
-        "wave_idx": 2,
-        "total_f_idx": 97,
-        "idx_per_model": 3
-    },
-    "./test_files_norm/LJSpeech-1.1/LJ014-0272.wav": {
-        "wave_idx": 2,
-        "total_f_idx": 80,
+    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ006-0034.wav": {
+        "wave_idx": 3,
+        "total_f_idx": 61,
         "idx_per_model": 4
     },
-    "./generated_files/LJ_V1/generator_v1/LJ045-0147.wav": {
+    "./generated_files/vocgan_near/g_02500000/LJ006-0034.wav": {
+        "wave_idx": 3,
+        "total_f_idx": 83,
+        "idx_per_model": 0
+    },
+    "./generated_files/stylemelgan_lj_re4/g_01400000/LJ006-0034.wav": {
         "wave_idx": 3,
         "total_f_idx": 18,
         "idx_per_model": 2
     },
-    "./generated_files/LJ_V2/generator_v2/LJ045-0147.wav": {
+    "./test_files_norm/LJSpeech-1.1/LJ006-0034.wav": {
         "wave_idx": 3,
-        "total_f_idx": 54,
-        "idx_per_model": 4
+        "total_f_idx": 75,
+        "idx_per_model": 3
     },
-    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ045-0147.wav": {
-        "wave_idx": 3,
+    "./generated_files/LJ_V1/generator_v1/LJ026-0039.wav": {
+        "wave_idx": 4,
         "total_f_idx": 5,
-        "idx_per_model": 0
+        "idx_per_model": 4
     },
-    "./generated_files/voco_v2_feb_fix_tr/g_03000000/LJ045-0147.wav": {
-        "wave_idx": 3,
+    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ026-0039.wav": {
+        "wave_idx": 4,
         "total_f_idx": 22,
-        "idx_per_model": 5
-    },
-    "./generated_files/vocgan_near/g_02500000/LJ045-0147.wav": {
-        "wave_idx": 3,
-        "total_f_idx": 71,
-        "idx_per_model": 1
-    },
-    "./test_files_norm/LJSpeech-1.1/LJ045-0147.wav": {
-        "wave_idx": 3,
-        "total_f_idx": 24,
         "idx_per_model": 3
     },
-    "./generated_files/LJ_V1/generator_v1/LJ050-0277.wav": {
+    "./generated_files/vocgan_near/g_02500000/LJ026-0039.wav": {
         "wave_idx": 4,
-        "total_f_idx": 56,
+        "total_f_idx": 103,
         "idx_per_model": 2
     },
-    "./generated_files/LJ_V2/generator_v2/LJ050-0277.wav": {
+    "./generated_files/stylemelgan_lj_re4/g_01400000/LJ026-0039.wav": {
         "wave_idx": 4,
-        "total_f_idx": 29,
-        "idx_per_model": 1
-    },
-    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ050-0277.wav": {
-        "wave_idx": 4,
-        "total_f_idx": 88,
-        "idx_per_model": 5
-    },
-    "./generated_files/voco_v2_feb_fix_tr/g_03000000/LJ050-0277.wav": {
-        "wave_idx": 4,
-        "total_f_idx": 59,
-        "idx_per_model": 3
-    },
-    "./generated_files/vocgan_near/g_02500000/LJ050-0277.wav": {
-        "wave_idx": 4,
-        "total_f_idx": 95,
-        "idx_per_model": 0
-    },
-    "./test_files_norm/LJSpeech-1.1/LJ050-0277.wav": {
-        "wave_idx": 4,
-        "total_f_idx": 47,
-        "idx_per_model": 4
-    },
-    "./generated_files/LJ_V1/generator_v1/LJ024-0119.wav": {
-        "wave_idx": 5,
-        "total_f_idx": 83,
-        "idx_per_model": 3
-    },
-    "./generated_files/LJ_V2/generator_v2/LJ024-0119.wav": {
-        "wave_idx": 5,
-        "total_f_idx": 76,
-        "idx_per_model": 0
-    },
-    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ024-0119.wav": {
-        "wave_idx": 5,
-        "total_f_idx": 42,
-        "idx_per_model": 4
-    },
-    "./generated_files/voco_v2_feb_fix_tr/g_03000000/LJ024-0119.wav": {
-        "wave_idx": 5,
-        "total_f_idx": 78,
-        "idx_per_model": 2
-    },
-    "./generated_files/vocgan_near/g_02500000/LJ024-0119.wav": {
-        "wave_idx": 5,
-        "total_f_idx": 48,
-        "idx_per_model": 5
-    },
-    "./test_files_norm/LJSpeech-1.1/LJ024-0119.wav": {
-        "wave_idx": 5,
         "total_f_idx": 65,
         "idx_per_model": 1
     },
-    "./generated_files/LJ_V1/generator_v1/LJ048-0271.wav": {
-        "wave_idx": 6,
-        "total_f_idx": 66,
-        "idx_per_model": 0
-    },
-    "./generated_files/LJ_V2/generator_v2/LJ048-0271.wav": {
-        "wave_idx": 6,
-        "total_f_idx": 40,
-        "idx_per_model": 3
-    },
-    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ048-0271.wav": {
-        "wave_idx": 6,
-        "total_f_idx": 82,
-        "idx_per_model": 4
-    },
-    "./generated_files/voco_v2_feb_fix_tr/g_03000000/LJ048-0271.wav": {
-        "wave_idx": 6,
-        "total_f_idx": 33,
-        "idx_per_model": 2
-    },
-    "./generated_files/vocgan_near/g_02500000/LJ048-0271.wav": {
-        "wave_idx": 6,
-        "total_f_idx": 62,
-        "idx_per_model": 5
-    },
-    "./test_files_norm/LJSpeech-1.1/LJ048-0271.wav": {
-        "wave_idx": 6,
-        "total_f_idx": 100,
-        "idx_per_model": 1
-    },
-    "./generated_files/LJ_V1/generator_v1/LJ047-0142.wav": {
-        "wave_idx": 7,
-        "total_f_idx": 52,
-        "idx_per_model": 3
-    },
-    "./generated_files/LJ_V2/generator_v2/LJ047-0142.wav": {
-        "wave_idx": 7,
-        "total_f_idx": 55,
-        "idx_per_model": 4
-    },
-    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ047-0142.wav": {
-        "wave_idx": 7,
-        "total_f_idx": 28,
-        "idx_per_model": 2
-    },
-    "./generated_files/voco_v2_feb_fix_tr/g_03000000/LJ047-0142.wav": {
-        "wave_idx": 7,
-        "total_f_idx": 92,
-        "idx_per_model": 5
-    },
-    "./generated_files/vocgan_near/g_02500000/LJ047-0142.wav": {
-        "wave_idx": 7,
-        "total_f_idx": 91,
-        "idx_per_model": 1
-    },
-    "./test_files_norm/LJSpeech-1.1/LJ047-0142.wav": {
-        "wave_idx": 7,
-        "total_f_idx": 93,
-        "idx_per_model": 0
-    },
-    "./generated_files/LJ_V1/generator_v1/LJ050-0276.wav": {
-        "wave_idx": 8,
-        "total_f_idx": 25,
-        "idx_per_model": 3
-    },
-    "./generated_files/LJ_V2/generator_v2/LJ050-0276.wav": {
-        "wave_idx": 8,
-        "total_f_idx": 51,
-        "idx_per_model": 2
-    },
-    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ050-0276.wav": {
-        "wave_idx": 8,
+    "./test_files_norm/LJSpeech-1.1/LJ026-0039.wav": {
+        "wave_idx": 4,
         "total_f_idx": 68,
-        "idx_per_model": 5
-    },
-    "./generated_files/voco_v2_feb_fix_tr/g_03000000/LJ050-0276.wav": {
-        "wave_idx": 8,
-        "total_f_idx": 89,
         "idx_per_model": 0
     },
-    "./generated_files/vocgan_near/g_02500000/LJ050-0276.wav": {
-        "wave_idx": 8,
-        "total_f_idx": 27,
-        "idx_per_model": 1
-    },
-    "./test_files_norm/LJSpeech-1.1/LJ050-0276.wav": {
-        "wave_idx": 8,
-        "total_f_idx": 38,
+    "./generated_files/LJ_V1/generator_v1/LJ021-0155.wav": {
+        "wave_idx": 5,
+        "total_f_idx": 29,
         "idx_per_model": 4
     },
-    "./generated_files/LJ_V1/generator_v1/LJ028-0134.wav": {
-        "wave_idx": 9,
-        "total_f_idx": 13,
-        "idx_per_model": 3
-    },
-    "./generated_files/LJ_V2/generator_v2/LJ028-0134.wav": {
-        "wave_idx": 9,
-        "total_f_idx": 77,
+    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ021-0155.wav": {
+        "wave_idx": 5,
+        "total_f_idx": 91,
         "idx_per_model": 0
     },
-    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ028-0134.wav": {
-        "wave_idx": 9,
-        "total_f_idx": 46,
-        "idx_per_model": 2
-    },
-    "./generated_files/voco_v2_feb_fix_tr/g_03000000/LJ028-0134.wav": {
-        "wave_idx": 9,
-        "total_f_idx": 90,
-        "idx_per_model": 5
-    },
-    "./generated_files/vocgan_near/g_02500000/LJ028-0134.wav": {
-        "wave_idx": 9,
-        "total_f_idx": 69,
-        "idx_per_model": 4
-    },
-    "./test_files_norm/LJSpeech-1.1/LJ028-0134.wav": {
-        "wave_idx": 9,
+    "./generated_files/vocgan_near/g_02500000/LJ021-0155.wav": {
+        "wave_idx": 5,
         "total_f_idx": 6,
         "idx_per_model": 1
     },
-    "./generated_files/LJ_V1/generator_v1/LJ010-0270.wav": {
-        "wave_idx": 10,
-        "total_f_idx": 16,
-        "idx_per_model": 5
+    "./generated_files/stylemelgan_lj_re4/g_01400000/LJ021-0155.wav": {
+        "wave_idx": 5,
+        "total_f_idx": 98,
+        "idx_per_model": 3
     },
-    "./generated_files/LJ_V2/generator_v2/LJ010-0270.wav": {
-        "wave_idx": 10,
-        "total_f_idx": 12,
-        "idx_per_model": 0
+    "./test_files_norm/LJSpeech-1.1/LJ021-0155.wav": {
+        "wave_idx": 5,
+        "total_f_idx": 50,
+        "idx_per_model": 2
+    },
+    "./generated_files/LJ_V1/generator_v1/LJ010-0270.wav": {
+        "wave_idx": 6,
+        "total_f_idx": 97,
+        "idx_per_model": 2
     },
     "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ010-0270.wav": {
-        "wave_idx": 10,
-        "total_f_idx": 50,
+        "wave_idx": 6,
+        "total_f_idx": 100,
         "idx_per_model": 4
-    },
-    "./generated_files/voco_v2_feb_fix_tr/g_03000000/LJ010-0270.wav": {
-        "wave_idx": 10,
-        "total_f_idx": 53,
-        "idx_per_model": 1
     },
     "./generated_files/vocgan_near/g_02500000/LJ010-0270.wav": {
-        "wave_idx": 10,
-        "total_f_idx": 43,
+        "wave_idx": 6,
+        "total_f_idx": 42,
         "idx_per_model": 3
+    },
+    "./generated_files/stylemelgan_lj_re4/g_01400000/LJ010-0270.wav": {
+        "wave_idx": 6,
+        "total_f_idx": 81,
+        "idx_per_model": 1
     },
     "./test_files_norm/LJSpeech-1.1/LJ010-0270.wav": {
-        "wave_idx": 10,
-        "total_f_idx": 49,
-        "idx_per_model": 2
-    },
-    "./generated_files/LJ_V1/generator_v1/LJ031-0007.wav": {
-        "wave_idx": 11,
-        "total_f_idx": 39,
-        "idx_per_model": 4
-    },
-    "./generated_files/LJ_V2/generator_v2/LJ031-0007.wav": {
-        "wave_idx": 11,
-        "total_f_idx": 3,
-        "idx_per_model": 1
-    },
-    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ031-0007.wav": {
-        "wave_idx": 11,
-        "total_f_idx": 85,
-        "idx_per_model": 2
-    },
-    "./generated_files/voco_v2_feb_fix_tr/g_03000000/LJ031-0007.wav": {
-        "wave_idx": 11,
-        "total_f_idx": 60,
-        "idx_per_model": 5
-    },
-    "./generated_files/vocgan_near/g_02500000/LJ031-0007.wav": {
-        "wave_idx": 11,
-        "total_f_idx": 63,
-        "idx_per_model": 3
-    },
-    "./test_files_norm/LJSpeech-1.1/LJ031-0007.wav": {
-        "wave_idx": 11,
-        "total_f_idx": 41,
+        "wave_idx": 6,
+        "total_f_idx": 51,
         "idx_per_model": 0
     },
-    "./generated_files/LJ_V1/generator_v1/LJ043-0178.wav": {
-        "wave_idx": 12,
-        "total_f_idx": 58,
-        "idx_per_model": 1
-    },
-    "./generated_files/LJ_V2/generator_v2/LJ043-0178.wav": {
-        "wave_idx": 12,
-        "total_f_idx": 81,
+    "./generated_files/LJ_V1/generator_v1/LJ010-0233.wav": {
+        "wave_idx": 7,
+        "total_f_idx": 55,
         "idx_per_model": 2
     },
-    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ043-0178.wav": {
-        "wave_idx": 12,
+    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ010-0233.wav": {
+        "wave_idx": 7,
+        "total_f_idx": 69,
+        "idx_per_model": 4
+    },
+    "./generated_files/vocgan_near/g_02500000/LJ010-0233.wav": {
+        "wave_idx": 7,
+        "total_f_idx": 40,
+        "idx_per_model": 0
+    },
+    "./generated_files/stylemelgan_lj_re4/g_01400000/LJ010-0233.wav": {
+        "wave_idx": 7,
+        "total_f_idx": 48,
+        "idx_per_model": 3
+    },
+    "./test_files_norm/LJSpeech-1.1/LJ010-0233.wav": {
+        "wave_idx": 7,
+        "total_f_idx": 64,
+        "idx_per_model": 1
+    },
+    "./generated_files/LJ_V1/generator_v1/LJ008-0174.wav": {
+        "wave_idx": 8,
+        "total_f_idx": 66,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ008-0174.wav": {
+        "wave_idx": 8,
+        "total_f_idx": 77,
+        "idx_per_model": 0
+    },
+    "./generated_files/vocgan_near/g_02500000/LJ008-0174.wav": {
+        "wave_idx": 8,
+        "total_f_idx": 56,
+        "idx_per_model": 2
+    },
+    "./generated_files/stylemelgan_lj_re4/g_01400000/LJ008-0174.wav": {
+        "wave_idx": 8,
+        "total_f_idx": 87,
+        "idx_per_model": 4
+    },
+    "./test_files_norm/LJSpeech-1.1/LJ008-0174.wav": {
+        "wave_idx": 8,
+        "total_f_idx": 59,
+        "idx_per_model": 1
+    },
+    "./generated_files/LJ_V1/generator_v1/LJ034-0083.wav": {
+        "wave_idx": 9,
+        "total_f_idx": 45,
+        "idx_per_model": 4
+    },
+    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ034-0083.wav": {
+        "wave_idx": 9,
+        "total_f_idx": 28,
+        "idx_per_model": 2
+    },
+    "./generated_files/vocgan_near/g_02500000/LJ034-0083.wav": {
+        "wave_idx": 9,
+        "total_f_idx": 95,
+        "idx_per_model": 1
+    },
+    "./generated_files/stylemelgan_lj_re4/g_01400000/LJ034-0083.wav": {
+        "wave_idx": 9,
+        "total_f_idx": 72,
+        "idx_per_model": 0
+    },
+    "./test_files_norm/LJSpeech-1.1/LJ034-0083.wav": {
+        "wave_idx": 9,
         "total_f_idx": 94,
         "idx_per_model": 3
     },
-    "./generated_files/voco_v2_feb_fix_tr/g_03000000/LJ043-0178.wav": {
-        "wave_idx": 12,
-        "total_f_idx": 84,
-        "idx_per_model": 0
-    },
-    "./generated_files/vocgan_near/g_02500000/LJ043-0178.wav": {
-        "wave_idx": 12,
-        "total_f_idx": 67,
-        "idx_per_model": 4
-    },
-    "./test_files_norm/LJSpeech-1.1/LJ043-0178.wav": {
-        "wave_idx": 12,
+    "./generated_files/LJ_V1/generator_v1/LJ050-0113.wav": {
+        "wave_idx": 10,
         "total_f_idx": 96,
-        "idx_per_model": 5
-    },
-    "./generated_files/LJ_V1/generator_v1/LJ004-0169.wav": {
-        "wave_idx": 13,
-        "total_f_idx": 20,
-        "idx_per_model": 2
-    },
-    "./generated_files/LJ_V2/generator_v2/LJ004-0169.wav": {
-        "wave_idx": 13,
-        "total_f_idx": 21,
-        "idx_per_model": 5
-    },
-    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ004-0169.wav": {
-        "wave_idx": 13,
-        "total_f_idx": 8,
         "idx_per_model": 4
     },
-    "./generated_files/voco_v2_feb_fix_tr/g_03000000/LJ004-0169.wav": {
-        "wave_idx": 13,
-        "total_f_idx": 37,
-        "idx_per_model": 0
-    },
-    "./generated_files/vocgan_near/g_02500000/LJ004-0169.wav": {
-        "wave_idx": 13,
-        "total_f_idx": 44,
+    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ050-0113.wav": {
+        "wave_idx": 10,
+        "total_f_idx": 25,
         "idx_per_model": 1
     },
-    "./test_files_norm/LJSpeech-1.1/LJ004-0169.wav": {
+    "./generated_files/vocgan_near/g_02500000/LJ050-0113.wav": {
+        "wave_idx": 10,
+        "total_f_idx": 54,
+        "idx_per_model": 0
+    },
+    "./generated_files/stylemelgan_lj_re4/g_01400000/LJ050-0113.wav": {
+        "wave_idx": 10,
+        "total_f_idx": 71,
+        "idx_per_model": 2
+    },
+    "./test_files_norm/LJSpeech-1.1/LJ050-0113.wav": {
+        "wave_idx": 10,
+        "total_f_idx": 92,
+        "idx_per_model": 3
+    },
+    "./generated_files/LJ_V1/generator_v1/LJ042-0017.wav": {
+        "wave_idx": 11,
+        "total_f_idx": 52,
+        "idx_per_model": 4
+    },
+    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ042-0017.wav": {
+        "wave_idx": 11,
+        "total_f_idx": 27,
+        "idx_per_model": 2
+    },
+    "./generated_files/vocgan_near/g_02500000/LJ042-0017.wav": {
+        "wave_idx": 11,
+        "total_f_idx": 38,
+        "idx_per_model": 1
+    },
+    "./generated_files/stylemelgan_lj_re4/g_01400000/LJ042-0017.wav": {
+        "wave_idx": 11,
+        "total_f_idx": 73,
+        "idx_per_model": 0
+    },
+    "./test_files_norm/LJSpeech-1.1/LJ042-0017.wav": {
+        "wave_idx": 11,
+        "total_f_idx": 80,
+        "idx_per_model": 3
+    },
+    "./generated_files/LJ_V1/generator_v1/LJ048-0271.wav": {
+        "wave_idx": 12,
+        "total_f_idx": 46,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ048-0271.wav": {
+        "wave_idx": 12,
+        "total_f_idx": 93,
+        "idx_per_model": 0
+    },
+    "./generated_files/vocgan_near/g_02500000/LJ048-0271.wav": {
+        "wave_idx": 12,
+        "total_f_idx": 16,
+        "idx_per_model": 2
+    },
+    "./generated_files/stylemelgan_lj_re4/g_01400000/LJ048-0271.wav": {
+        "wave_idx": 12,
+        "total_f_idx": 13,
+        "idx_per_model": 4
+    },
+    "./test_files_norm/LJSpeech-1.1/LJ048-0271.wav": {
+        "wave_idx": 12,
+        "total_f_idx": 33,
+        "idx_per_model": 1
+    },
+    "./generated_files/LJ_V1/generator_v1/LJ005-0101.wav": {
         "wave_idx": 13,
+        "total_f_idx": 24,
+        "idx_per_model": 0
+    },
+    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ005-0101.wav": {
+        "wave_idx": 13,
+        "total_f_idx": 53,
+        "idx_per_model": 2
+    },
+    "./generated_files/vocgan_near/g_02500000/LJ005-0101.wav": {
+        "wave_idx": 13,
+        "total_f_idx": 43,
+        "idx_per_model": 3
+    },
+    "./generated_files/stylemelgan_lj_re4/g_01400000/LJ005-0101.wav": {
+        "wave_idx": 13,
+        "total_f_idx": 49,
+        "idx_per_model": 4
+    },
+    "./test_files_norm/LJSpeech-1.1/LJ005-0101.wav": {
+        "wave_idx": 13,
+        "total_f_idx": 39,
+        "idx_per_model": 1
+    },
+    "./generated_files/LJ_V1/generator_v1/LJ013-0020.wav": {
+        "wave_idx": 14,
+        "total_f_idx": 3,
+        "idx_per_model": 1
+    },
+    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ013-0020.wav": {
+        "wave_idx": 14,
+        "total_f_idx": 88,
+        "idx_per_model": 4
+    },
+    "./generated_files/vocgan_near/g_02500000/LJ013-0020.wav": {
+        "wave_idx": 14,
+        "total_f_idx": 60,
+        "idx_per_model": 2
+    },
+    "./generated_files/stylemelgan_lj_re4/g_01400000/LJ013-0020.wav": {
+        "wave_idx": 14,
+        "total_f_idx": 63,
+        "idx_per_model": 0
+    },
+    "./test_files_norm/LJSpeech-1.1/LJ013-0020.wav": {
+        "wave_idx": 14,
+        "total_f_idx": 41,
+        "idx_per_model": 3
+    },
+    "./generated_files/LJ_V1/generator_v1/LJ010-0234.wav": {
+        "wave_idx": 15,
+        "total_f_idx": 58,
+        "idx_per_model": 2
+    },
+    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ010-0234.wav": {
+        "wave_idx": 15,
+        "total_f_idx": 84,
+        "idx_per_model": 3
+    },
+    "./generated_files/vocgan_near/g_02500000/LJ010-0234.wav": {
+        "wave_idx": 15,
+        "total_f_idx": 89,
+        "idx_per_model": 1
+    },
+    "./generated_files/stylemelgan_lj_re4/g_01400000/LJ010-0234.wav": {
+        "wave_idx": 15,
+        "total_f_idx": 82,
+        "idx_per_model": 4
+    },
+    "./test_files_norm/LJSpeech-1.1/LJ010-0234.wav": {
+        "wave_idx": 15,
+        "total_f_idx": 67,
+        "idx_per_model": 0
+    },
+    "./generated_files/LJ_V1/generator_v1/LJ014-0272.wav": {
+        "wave_idx": 16,
         "total_f_idx": 99,
         "idx_per_model": 3
     },
-    "./generated_files/LJ_V1/generator_v1/LJ043-0183.wav": {
-        "wave_idx": 14,
-        "total_f_idx": 79,
-        "idx_per_model": 3
+    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ014-0272.wav": {
+        "wave_idx": 16,
+        "total_f_idx": 20,
+        "idx_per_model": 1
     },
-    "./generated_files/LJ_V2/generator_v2/LJ043-0183.wav": {
-        "wave_idx": 14,
-        "total_f_idx": 14,
+    "./generated_files/vocgan_near/g_02500000/LJ014-0272.wav": {
+        "wave_idx": 16,
+        "total_f_idx": 21,
         "idx_per_model": 0
     },
-    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ043-0183.wav": {
-        "wave_idx": 14,
-        "total_f_idx": 34,
-        "idx_per_model": 5
-    },
-    "./generated_files/voco_v2_feb_fix_tr/g_03000000/LJ043-0183.wav": {
-        "wave_idx": 14,
-        "total_f_idx": 31,
+    "./generated_files/stylemelgan_lj_re4/g_01400000/LJ014-0272.wav": {
+        "wave_idx": 16,
+        "total_f_idx": 8,
         "idx_per_model": 4
     },
-    "./generated_files/vocgan_near/g_02500000/LJ043-0183.wav": {
-        "wave_idx": 14,
+    "./test_files_norm/LJSpeech-1.1/LJ014-0272.wav": {
+        "wave_idx": 16,
+        "total_f_idx": 37,
+        "idx_per_model": 2
+    },
+    "./generated_files/LJ_V1/generator_v1/LJ045-0147.wav": {
+        "wave_idx": 17,
+        "total_f_idx": 44,
+        "idx_per_model": 4
+    },
+    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ045-0147.wav": {
+        "wave_idx": 17,
+        "total_f_idx": 102,
+        "idx_per_model": 0
+    },
+    "./generated_files/vocgan_near/g_02500000/LJ045-0147.wav": {
+        "wave_idx": 17,
+        "total_f_idx": 79,
+        "idx_per_model": 1
+    },
+    "./generated_files/stylemelgan_lj_re4/g_01400000/LJ045-0147.wav": {
+        "wave_idx": 17,
+        "total_f_idx": 14,
+        "idx_per_model": 3
+    },
+    "./test_files_norm/LJSpeech-1.1/LJ045-0147.wav": {
+        "wave_idx": 17,
+        "total_f_idx": 34,
+        "idx_per_model": 2
+    },
+    "./generated_files/LJ_V1/generator_v1/LJ050-0277.wav": {
+        "wave_idx": 18,
+        "total_f_idx": 31,
+        "idx_per_model": 3
+    },
+    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ050-0277.wav": {
+        "wave_idx": 18,
         "total_f_idx": 35,
         "idx_per_model": 2
     },
-    "./test_files_norm/LJSpeech-1.1/LJ043-0183.wav": {
-        "wave_idx": 14,
+    "./generated_files/vocgan_near/g_02500000/LJ050-0277.wav": {
+        "wave_idx": 18,
         "total_f_idx": 1,
-        "idx_per_model": 1
+        "idx_per_model": 0
     },
-    "./generated_files/LJ_V1/generator_v1/LJ032-0165.wav": {
-        "wave_idx": 15,
+    "./generated_files/stylemelgan_lj_re4/g_01400000/LJ050-0277.wav": {
+        "wave_idx": 18,
         "total_f_idx": 57,
         "idx_per_model": 4
     },
-    "./generated_files/LJ_V2/generator_v2/LJ032-0165.wav": {
-        "wave_idx": 15,
+    "./test_files_norm/LJSpeech-1.1/LJ050-0277.wav": {
+        "wave_idx": 18,
         "total_f_idx": 2,
-        "idx_per_model": 5
+        "idx_per_model": 1
     },
-    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ032-0165.wav": {
-        "wave_idx": 15,
+    "./generated_files/LJ_V1/generator_v1/LJ024-0119.wav": {
+        "wave_idx": 19,
         "total_f_idx": 10,
         "idx_per_model": 0
     },
-    "./generated_files/voco_v2_feb_fix_tr/g_03000000/LJ032-0165.wav": {
-        "wave_idx": 15,
+    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ024-0119.wav": {
+        "wave_idx": 19,
         "total_f_idx": 9,
-        "idx_per_model": 3
+        "idx_per_model": 4
     },
-    "./generated_files/vocgan_near/g_02500000/LJ032-0165.wav": {
-        "wave_idx": 15,
+    "./generated_files/vocgan_near/g_02500000/LJ024-0119.wav": {
+        "wave_idx": 19,
         "total_f_idx": 86,
-        "idx_per_model": 1
-    },
-    "./test_files_norm/LJSpeech-1.1/LJ032-0165.wav": {
-        "wave_idx": 15,
-        "total_f_idx": 4,
         "idx_per_model": 2
     },
-    "./generated_files/LJ_V1/generator_v1/LJ005-0108.wav": {
-        "wave_idx": 16,
-        "total_f_idx": 32,
-        "idx_per_model": 5
-    },
-    "./generated_files/LJ_V2/generator_v2/LJ005-0108.wav": {
-        "wave_idx": 16,
-        "total_f_idx": 101,
-        "idx_per_model": 3
-    },
-    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ005-0108.wav": {
-        "wave_idx": 16,
-        "total_f_idx": 11,
+    "./generated_files/stylemelgan_lj_re4/g_01400000/LJ024-0119.wav": {
+        "wave_idx": 19,
+        "total_f_idx": 4,
         "idx_per_model": 1
     },
-    "./generated_files/voco_v2_feb_fix_tr/g_03000000/LJ005-0108.wav": {
-        "wave_idx": 16,
+    "./test_files_norm/LJSpeech-1.1/LJ024-0119.wav": {
+        "wave_idx": 19,
+        "total_f_idx": 32,
+        "idx_per_model": 3
+    },
+    "./generated_files/LJ_V1/generator_v1/LJ047-0142.wav": {
+        "wave_idx": 20,
+        "total_f_idx": 104,
+        "idx_per_model": 2
+    },
+    "./generated_files/voco_v1_feb_fix_tr_larger/g_03000000/LJ047-0142.wav": {
+        "wave_idx": 20,
+        "total_f_idx": 11,
+        "idx_per_model": 4
+    },
+    "./generated_files/vocgan_near/g_02500000/LJ047-0142.wav": {
+        "wave_idx": 20,
         "total_f_idx": 23,
+        "idx_per_model": 1
+    },
+    "./generated_files/stylemelgan_lj_re4/g_01400000/LJ047-0142.wav": {
+        "wave_idx": 20,
+        "total_f_idx": 74,
         "idx_per_model": 0
     },
-    "./generated_files/vocgan_near/g_02500000/LJ005-0108.wav": {
-        "wave_idx": 16,
-        "total_f_idx": 74,
-        "idx_per_model": 2
-    },
-    "./test_files_norm/LJSpeech-1.1/LJ005-0108.wav": {
-        "wave_idx": 16,
+    "./test_files_norm/LJSpeech-1.1/LJ047-0142.wav": {
+        "wave_idx": 20,
         "total_f_idx": 70,
-        "idx_per_model": 4
+        "idx_per_model": 3
     }
 }
